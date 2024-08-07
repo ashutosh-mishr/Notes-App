@@ -1,0 +1,62 @@
+# Node modules directory
+node_modules/
+
+# Build output directories
+build/
+dist/
+
+# Environment files
+.env
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor directories
+.vscode/
+.idea/
+
+# Coverage directory for testing
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Package lock files (if you use Yarn, ignore yarn.lock instead)
+package-lock.json
+yarn.lock
+
+# TypeScript build output
+*.tsbuildinfo
+
+# Next.js build output (if using Next.js)
+.next/
+
+# Storybook build output (if using Storybook)
+storybook-static/
+
+# Prisma (if using Prisma ORM)
+prisma/
+
+# Sentry (if using Sentry)
+.sentry/
+
+# Mac-specific files
+*.DS_Store
+
+# Windows-specific files
+Thumbs.db
+
+# Other
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
